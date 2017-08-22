@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/ehcache-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/frameworks/hibernate/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
